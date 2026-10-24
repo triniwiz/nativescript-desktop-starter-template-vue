@@ -5,7 +5,7 @@
   "private": true,
   "dependencies": {
     "@nativescript/core": "https://pkg.pr.new/@nativescript/core@abae298",
-    "@triniwiz/nativescript-masonkit": "^1.0.0-beta.124",
+    "@triniwiz/nativescript-masonkit": "^1.0.0-beta.127",
     "@valor/nativescript-websockets": "^2.0.2",
     "nativescript-vue": "3.1.2"
   },
