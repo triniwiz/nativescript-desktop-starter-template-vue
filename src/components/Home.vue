@@ -53,7 +53,7 @@ const features = [
   {
     icon: '◎',
     title: 'One codebase',
-    body: 'The same components run on iOS, Android and Windows.',
+    body: 'The same components run on iOS, Android, Windows and Linux.',
     tint: 'bg-emerald-100 text-emerald-600 dark:bg-emerald-500/20 dark:text-emerald-300',
   },
 ];
@@ -82,7 +82,7 @@ const steps = [
             </h1>
             <p class="text-base text-white/80">
               Flexbox, CSS Grid and semantic elements powered by a Rust layout
-              engine, styled with Tailwind on iOS, Android and Windows.
+              engine, styled with Tailwind on iOS, Android, Windows and Linux.
             </p>
             <div class="flex flex-row flex-wrap gap-3 pt-2">
               <button
