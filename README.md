@@ -93,6 +93,6 @@ These can be removed once the fixes are released:
   [NativeScript/NativeScript#11620](https://github.com/NativeScript/NativeScript/pull/11620),
   which is the `feat/linux` branch. It builds on `feat/windows`, which includes
   percentage sizes inside MasonKit layouts.
-- `@nativescript/windows` is pinned to an exact alpha, because a caret range
-  would also match older, incompatible betas.
+- `@nativescript/windows` is pinned to an exact beta, because a caret range
+  would pick up newer betas before they're tested with this template.
 - `@nativescript/linux` is pinned to an exact alpha.
