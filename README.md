@@ -96,7 +96,3 @@ These can be removed once the fixes are released:
 - `@nativescript/windows` is pinned to an exact alpha, because a caret range
   would also match older, incompatible betas.
 - `@nativescript/linux` is pinned to an exact alpha.
-- `masonkit-hmr.mjs` stops MasonKit from loading twice during HMR.
-- `postcss-selector-commas.mjs` makes classes with a comma, like
-  `grid-cols-[repeat(auto-fill,minmax(240,1fr))]`, match
-  ([NativeScript/NativeScript#11463](https://github.com/NativeScript/NativeScript/pull/11463)).
