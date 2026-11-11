@@ -20,7 +20,7 @@
     "@types/node": "~26.5.0",
     "@vitejs/plugin-vue": "^6.0.9",
     "@vitejs/plugin-vue-jsx": "^5.1.6",
-    "nativescript": "9.1.2-dev.2026-11-09-42556045282",
+    "nativescript": "9.1.2-dev.2026-11-11-42975970828",
     "tailwindcss": "^4.3.3",
     "typescript": "^6.0.3",
     "vue-tsc": "^3.3.11"
